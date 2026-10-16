@@ -9,3 +9,6 @@
 Me chamo Felipe, tenho 18 anos e moro em Guanambi - BA. Atualmente, curso Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi . Sou extremamente interessado por tecnologia, tanto na parte de software como de hardware , e por boa parte que envolva esse universo.
  
 #
+
+
+<img align="right" alt="" height="190px" src="/.src/trunks.gif">
