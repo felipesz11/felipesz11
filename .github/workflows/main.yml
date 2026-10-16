@@ -1,1 +1,22 @@
----
+
+name: Verificar repositório
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Verificar arquivos
+        run: |
+          echo "Workflow executado com sucesso!"
+          ls -la
