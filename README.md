@@ -11,4 +11,4 @@ Me chamo Felipe, tenho 18 anos e moro em Guanambi - BA. Atualmente, curso Análi
 #
 
 
-<img align="right" alt="" height="190px" src="/.src/trunks.gif">
+<img align="right" alt="" height="210px" src="src/trunks.gif">
